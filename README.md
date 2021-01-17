@@ -8,3 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about none.
 - 📫 How to reach me: i live in pacific ocean
 - ⚡ Fun fact: i'ma cat.
+
+If you want to check out my website, i leave the link here:
+
+https://simone-ciardo.github.io/
