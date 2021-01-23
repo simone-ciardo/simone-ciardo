@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an operating system
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C
 - 🤔 I’m looking for help with creating operating systems
 - 💬 Ask me about none.
 - 📫 How to reach me: i live in pacific ocean
